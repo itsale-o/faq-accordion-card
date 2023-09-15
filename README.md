@@ -58,14 +58,6 @@ Users should be able to:
 
 </div>
 
-**Mobile Solution (hover state):** this is what my solution on mobile devices on hover state
-
-<div align="center">
-
-![](images/solution-mobile-hover.png)
-
-</div>
-
 **Mobile Solution (active state):** this is what my solution on mobile devices on active state
 
 <div align="center">
