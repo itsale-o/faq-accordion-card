@@ -68,8 +68,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution]()
-- Live Site URL: [Github Pages]()
+- Solution URL: [Frontend mentor solution](https://www.frontendmentor.io/solutions/faq-accordion-card-solution-_rmFxDNHVR)
+- Live Site URL: [Github Pages](https://itsale-o.github.io/faq-accordion-card/)
 
 ## My process
 
